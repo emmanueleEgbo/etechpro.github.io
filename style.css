@@ -1,0 +1,60 @@
+/*BODY*/
+
+body{
+  margin: 0;
+  background-color: #f7f7f7;
+}
+
+
+/*Text aree*/
+
+hr{
+  color: black;
+  height: 10px;
+  background-color: black;
+}
+
+.list-container{
+  background: #fff;
+  margin: 15px;
+  border: 15px;
+  border-color: black;
+  width: 600px;
+  max-width: 100%;
+  margin: 15px auto;
+  padding: 15px 35px;
+  box-shadow: 0 0 5px #eee;
+}
+
+.header-style {
+  background: #fff;
+  width: 600px;
+  max-width: 100%;
+  margin: 15px auto;
+  padding: 15px 35px;
+  box-shadow: 0 0 5px #eee;
+}
+
+.font-effect-anaglyph{
+  font-family: 'Rancho';
+  font-size: 68px;
+  line-height: 1.4;
+  margin: 0;
+}
+
+li{
+  list-style-type: none;
+}
+
+.delButtonClass{
+    background-color: floralwhite;
+    border-radius: 15px;
+    align-self: center;
+    width: 70px;
+    height: 20px;
+}
+
+li,button:hover{
+  background-color: white;
+  cursor: pointer;
+}
